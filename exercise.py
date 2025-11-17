@@ -6,3 +6,5 @@ def exercise(input):
             break
 
 exercise(222)
+
+def exercise2(input):
